@@ -407,7 +407,7 @@ input[type="submit"]{
     width:100vw;
     height:3000px;
     top:-30px;
-    left: -25px;
+    left: -30px;
     position:absolute;
     background-color: rgba(0, 0, 0, 0.4);
    display:none;
