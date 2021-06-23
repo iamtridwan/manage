@@ -52,7 +52,8 @@ icon.addEventListener('click', function(){
 
 
 window.addEventListener('DOMContentLoaded', function(){
-    updateAvatar(first)
+    updateAvatar(first);
+    document.body.style.overflowX="hidden";
 })
 // program to activate the changing process.
 toggleBtn.forEach(function(btn){  // iteration through collection of buttons
