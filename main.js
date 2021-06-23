@@ -84,9 +84,7 @@ function updateAvatar(pos){
 
 let goBtn = document.getElementById('go-btn');
 let form = document.getElementById('my_form');
-let message = document.getElementById('message')
-console.log(form)
-
+let message = document.getElementById('message');
 goBtn.addEventListener('click', ()=>{
     if(form.value == ''){
         message.textContent = "Form field is empty!"
