@@ -367,8 +367,8 @@ input[type="submit"]{
 .attribution { font-size: 15px; text-align: center; margin-top: 20px;}
     .attribution a { color: hsl(228, 45%, 44%); }
 
-@media screen and (max-width:500px) {
-
+@media screen and (max-width:375px) {
+    
     #btn{
         padding: .8em 2em;
         border-radius: 3em;
@@ -585,8 +585,8 @@ input[type="submit"]{
 
 }
 .toggle-btn button{
-    width: 12px;
-    height: 16px;
+    width: 15px;
+    height: 18px;
     border-radius: 50%;
     border: 1px solid var(--pry-red);
     display: inline-block;
