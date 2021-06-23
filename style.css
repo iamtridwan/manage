@@ -407,7 +407,7 @@ input[type="submit"]{
     width:100vw;
     height:3000px;
     top:-30px;
-    left: -40px;
+    left: -25px;
     position:absolute;
     background-color: rgba(0, 0, 0, 0.4);
    display:none;
@@ -418,7 +418,7 @@ input[type="submit"]{
     display:block;
     margin: 10px auto;
     top:100px;
-    left: 6px;;
+    left: 4px;;
     background-color: #fff;
     border-radius:5px;
     padding: 20px;
